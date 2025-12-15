@@ -1,0 +1,7 @@
+{
+  "name": "NexusHome",
+  "description": "A next-generation smart home dashboard featuring real-time voice control powered by Gemini Live. Manage lights, climate, and security with natural conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
